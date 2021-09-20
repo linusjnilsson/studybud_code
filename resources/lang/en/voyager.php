@@ -99,7 +99,7 @@ return [
 
     'login' => [
         'loggingin'    => 'Logging in',
-        'signin_below' => 'Sign In Below:',
+        'signin_below' => 'Logg inn:',
         'welcome'      => 'Welcome to Voyager. The Missing Admin for Laravel',
     ],
 
